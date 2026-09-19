@@ -115,7 +115,3 @@ python -m pip install pywhatkit
 ### Some contacts are skipped
 
 Only values beginning with `+` are accepted. Remove extra text, quotes, or formatting from the contact list and separate numbers with commas.
-
-## License
-
-No license is currently specified for this project. Add a license file before distributing the application.
